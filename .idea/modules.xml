@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" filepath="$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/MOFA_CODE/.idea/자료구조.iml" filepath="$USER_HOME$/DataspellProjects/MOFA_CODE/.idea/자료구조.iml" />
+    </modules>
+  </component>
+</project>
