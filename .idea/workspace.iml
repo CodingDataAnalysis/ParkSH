@@ -4,6 +4,5 @@
     <orderEntry type="jdk" jdkName="Python 3.9 (base)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="DataspellProjects" />
-    <orderEntry type="module" module-name="자료구조" />
   </component>
 </module>
