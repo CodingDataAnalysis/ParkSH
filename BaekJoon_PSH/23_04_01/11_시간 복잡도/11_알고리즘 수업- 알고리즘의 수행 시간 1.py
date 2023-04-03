@@ -1,7 +1,5 @@
 import sys
 
-def MenOfPassion(A, n) :
-    i = [n / 2];
-    return A[i]; # 코드1
+N = int(sys.stdin.readline())
 
-n = int(sys.stdin.readline())
+print(1,0 , sep='\n')
