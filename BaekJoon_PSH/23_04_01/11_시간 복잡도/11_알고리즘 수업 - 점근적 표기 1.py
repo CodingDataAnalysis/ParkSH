@@ -1,4 +1,8 @@
 import sys
+from sympy import Integral,  Symbol , pprint
+
+x = Symbol('x')
+f = 2 * x**2
 
 a =  list(map(int ,sys.stdin.readline().split()))
 c = int(sys.stdin.readline())
