@@ -5,7 +5,7 @@ N = int(sys.stdin.readline())
 
 T = list(map(int ,sys.stdin.readline().split()))
 
-def is_prime( m): #n이하의 개수
+def is_prime(m): #n이하의 개수
     A = [True] * (m+1)
     A[0],A[1] = False , False
     for i in range(2,int(math.sqrt(m)) +1):
