@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/BigDataContest_2023/.idea/BigDataContest_2023.iml" filepath="$USER_HOME$/DataspellProjects/BigDataContest_2023/.idea/BigDataContest_2023.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/MOFA_CODE_1/.idea/MOFA_CODE_1.iml" filepath="$USER_HOME$/DataspellProjects/MOFA_CODE_1/.idea/MOFA_CODE_1.iml" />
       <module fileurl="file://$USER_HOME$/DataspellProjects/ParkSH/.idea/ParkSH.iml" filepath="$USER_HOME$/DataspellProjects/ParkSH/.idea/ParkSH.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />

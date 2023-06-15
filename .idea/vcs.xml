@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$USER_HOME$/DataspellProjects/BigDataContest_2023" vcs="Git" />
     <mapping directory="$USER_HOME$/DataspellProjects/MOFA_CODE" vcs="Git" />
     <mapping directory="$USER_HOME$/DataspellProjects/MOFA_CODE_1" vcs="Git" />
     <mapping directory="$USER_HOME$/DataspellProjects/ParkSH" vcs="Git" />
